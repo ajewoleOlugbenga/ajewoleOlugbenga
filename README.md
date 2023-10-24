@@ -45,9 +45,16 @@
 <br/>
 <hr/>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajewoleGben)
+```txt
+TypeScript   9 hrs 50 mins   █████████████████████▒░░░   85.41 %
+JavaScript   1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+React Native 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Taiwindcss        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+```
 
 <hr/>
 
@@ -67,7 +74,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<hr/>
+<hr/>\
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajewoleGben)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
