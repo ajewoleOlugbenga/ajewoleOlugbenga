@@ -77,7 +77,7 @@ Taiwindcss   2 mins          ░░░░░░░░░░░░░░░░░
 <hr/>\
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajewoleGben)
+[![Twitter] <a href="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajewoleGben" target= "_blank">TWITTER</a>
 
 
 ### 😂 Random Dev Meme
