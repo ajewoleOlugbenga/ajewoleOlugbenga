@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Olugbenga+Ajewole!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Dribble_clone App**
  
- 🌱 I’m currently learning more on **GraphQL**
+ 🌱 I’m currently learning more on **Dart(Flutter)**
 
  💬 Ask me about **React, Next.js, Typescript, Javascript... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
 
