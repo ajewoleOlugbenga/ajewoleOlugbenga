@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Dribble_clone App**
  
- 🌱 I’m currently learning more on **Dart(Flutter)**
+ 🌱 I’m currently learning more on **Dart(Flutter) for Mobile App**
 
  💬 Ask me about **React, Next.js, Typescript, Javascript... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
 
