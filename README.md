@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning more on **Dart(Flutter) for Mobile App**
 
- 💬 Ask me about **React, Next.js, Typescript, Javascript... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
+ 💬 Ask me about **React, Next.js, Typescript, Javascript, Php, mySql... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
 
  ⚡ Fun fact **Chess is Life**
  
