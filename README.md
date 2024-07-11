@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Olugbenga+Ajewole!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Front-End Software Engineer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Dribble_clone App**
+ 🔭 I’m currently working on **A File-Explorer Web App**
  
- 🌱 I’m currently learning more on **Dart(Flutter) for Mobile App**
+ 🌱 I’m constantly learning more and more **everyday**
 
- 💬 Ask me about **React, Next.js, Typescript, Javascript, Php, mySql... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
+ 💬 Ask me about **React, Next.js, Typescript, Javascript, Python, Php, mySql... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
 
  ⚡ Fun fact **Chess is Life**
  
