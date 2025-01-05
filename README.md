@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Olugbenga+Ajewole!;" />
 </h1>
 
-<h3 align="center">A passionate Front-End Software Engineer</h3>
+<h3 align="center">A Passionate Data/Software Engineer</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m constantly learning more and more **everyday**
 
- 💬 Ask me about **React, Next.js, Typescript, Javascript, Python, Php, mySql... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
+ 💬 Ask me about **AWS Redshift, Data Modelling, Apache Kafka, Bash scripting, R language, looker, Google Bigquery, Next.js, Typescript, Javascript, Python, Php, mySql... or anything [here](https://github.com/ajewoleOlugbenga/ajewoleOlugbenga/issues)**
 
  ⚡ Fun fact **Chess is Life**
  
