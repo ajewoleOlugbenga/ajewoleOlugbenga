@@ -39,6 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs," />
     <img src="https://skillicons.dev/icons?i=mui,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=php,kafka,postgresql,terraform,docker,kubernetes,aws,azure" />
    <br>
 </div>
 
